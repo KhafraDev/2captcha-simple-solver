@@ -1,0 +1,25 @@
+{
+  "name": "2captcha-simple-solver",
+  "version": "1.0.0",
+  "description": "simple 2captcha solver",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khafradev/2captcha-simple-solver.git"
+  },
+  "keywords": [
+    "2captcha"
+  ],
+  "author": "Khafra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khafradev/2captcha-simple-solver/issues"
+  },
+  "homepage": "https://github.com/khafradev/2captcha-simple-solver#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
