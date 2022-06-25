@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/khafradev/2captcha-simple-solver#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
